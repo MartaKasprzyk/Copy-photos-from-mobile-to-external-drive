@@ -1,8 +1,12 @@
 **Prerequisites**
 
-- allow USB Debugging on your mobile device,
-  Check for your device how to allow USB Debugging. Usually option can be found in Settings || Additional Settings -> Developer Settings || Developer Options.
+- allow USB Debugging on your mobile device
+  
+  Check for your device how to allow USB Debugging.
+  Usually option can be found in Settings || Additional Settings -> Developer Settings || Developer Options.
+  
 - download ADB (Android Debug Bridge) on your computer
+  
   https://developer.android.com/tools/releases/platform-tools - download zip dedicated for your system and unpack
 
 **How to use**
